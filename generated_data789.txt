@@ -1,0 +1,30 @@
+Hey there, looks like you found my humble little scam      (oh crap!)
+
+Ok, let me explain myself
+This repository is a project that I actually made
+BUT, I never used Git with it
+And there are a number of projects that have been like this
+And there might be some more in the future
+And that makes me unhappy, knowing that my git history looks weaker than it should
+So I thought to myself, what if I write a script to fake a bunch of commit history so that the non-git projects show up on my GitHub
+And that's what I did here...
+
+There's actually a whole Typer project I wrote that's installed on my computer as a .whl file called git-generator
+Hear me out, the fact that I wrote a CLI to automate commit generation is pretty cool
+Admit it, you're impressed
+Aaaaand, if anything, this tool is MORE impressive than seeing a bunch of legitamite commites, right?
+
+I do want to mention, most of my commits (like more than 90%) are NOT from this script
+
+You know, they say a good programmer is a lazy programmer, so really, I'm the best programmer
+Also this may or may not be the reason my GitHub profile says "Fact: I am the best coder"
+
+
+
+I keep worr NOT putting any message here would be REALLY bad, but at the same time having a message means I'm more likely to be found out...
+Hey! I have an idea, if you're reading this, shoot me an email or something, I'd like to know if anyone will actually find out
+Email me at addisongoolsbee@gmail.com
+
+If you're seeing this, you might as well see the full message
+click that up-arrow button on the left, right above the line numbers
+
